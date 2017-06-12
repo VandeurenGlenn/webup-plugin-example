@@ -1,0 +1,10 @@
+{
+  "name": "webup-plugin-example",
+  "version": "1.0.0",
+  "description": "Example/startingpoint for writing a webup-plugin yourself.",
+  "main": "webup-plugin-example.js",
+  "keywords": ["webup", "plugin", "example"],
+  "repository": "https://github.com/vandeurenglenn/webup-plugin-example",
+  "author": "Glenn Vandeuren <vandeurenglenn@gmail.com>",
+  "license": "MIT"
+}
